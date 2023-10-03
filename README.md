@@ -1,4 +1,4 @@
-# TMF grupa 1 ![image](https://github.com/swagineering/swagineering.github.io/assets/142833312/18c0d967-edd5-469a-9bcd-5073a7399d4f)
+# TMF grupa 1
 
 Matematika 1: 
 - skupovi brojeva, operacije nad skupovima, relacije, linearna i kvadratna funkcija...
