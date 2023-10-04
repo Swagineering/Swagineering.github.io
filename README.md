@@ -5,6 +5,6 @@ Matematika 1:
 
 [Predavanje 03.10.2023](https://github.com/swagineering/swagineering.github.io/files/12794581/matematika10032023.pdf)
 
-- Kompleksni brojevi, algebarski, geometrijski, trigonometrijski oblik (i dokazi u linkovima)
+- Kompleksni brojevi, algebarski, geometrijski, trigonometrijski oblik (dokazi + linkovi)
 
-[uskoro se postavlja](https://swagineering.github.io)
+[Predavanje 04.10.2023](https://github.com/swagineering/swagineering.github.io/files/12805414/matematika104102023.pdf)
