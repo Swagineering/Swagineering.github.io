@@ -1,10 +1,9 @@
 # TMF beleške
 
-Matematika 1: 
-- Skupovi brojeva, operacije nad skupovima, relacije, linearna i kvadratna funkcija...
 
-[Predavanje 03.10.2023](https://github.com/swagineering/swagineering.github.io/files/12794581/matematika10032023.pdf)
 
-- Kompleksni brojevi, algebarski, geometrijski, trigonometrijski oblik (dokazi + linkovi)
+Beleške predmeta sa TMF-a u Beogradu.
+Ovde se nalaze i korisni linkovi stručne literature, i animacije za lakše razumevanje gradiva.
+Sajt je podeljen u više sekcija, po predmetima
 
-[Predavanje 04.10.2023](https://github.com/swagineering/swagineering.github.io/files/12805414/matematika104102023.pdf)
+Ukoliko imate neke beleške koje bi ste podelili -> DM 
