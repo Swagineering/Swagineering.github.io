@@ -7,4 +7,4 @@ Matematika 1:
 
 - Kompleksni brojevi, algebarski, geometrijski, trigonometrijski oblik (i dokazi u linkovima)
 
-[uskoro se postavlja] (https://swagineering.github.io)
+[uskoro se postavlja](https://swagineering.github.io)
