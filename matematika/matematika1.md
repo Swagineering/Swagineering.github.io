@@ -11,4 +11,5 @@ Matematika 1:
 
 - Vežbe, kvadratna funkcija, kvadratne jednačine i nejednačine, apsolutne vrednosti:
 > U linkovima ispod predavanja stoje izvodjenja ekstremnih vrenosti f-ja, za rešenja zadataka javiti se u DM
+
 [Vežbe 05.10.2023](https://github.com/swagineering/swagineering.github.io/files/12820674/matematikavezbe05102023.pdf)
