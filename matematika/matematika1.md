@@ -8,3 +8,7 @@ Matematika 1:
 - Kompleksni brojevi, algebarski, geometrijski, trigonometrijski oblik (dokazi + linkovi)
 
 [Predavanje 04.10.2023](https://github.com/swagineering/swagineering.github.io/files/12805414/matematika104102023.pdf)
+
+- Vežbe, kvadratna funkcija, kvadratne jednačine i nejednačine, apsolutne vrednosti:
+> U linkovima ispod predavanja stoje izvodjenja ekstremnih vrenosti f-ja, za rešenja zadataka javiti se u DM
+[uskoro se postavlja](https://swagineering.github.io/matematika/matematika1)
