@@ -2,8 +2,8 @@
 
 | Predmet     |                
 | :---        | 
-| [Matematika 1](https://swagineering.github.io/matematika/matematika1)|
-| Fizika      |            
+| [Matematika 1](https://swagineering.github.io/matematika/matematika1) |
+| [Fizika](https://swagineering.github.io/predmeti/fizika) |            
 
 
 
