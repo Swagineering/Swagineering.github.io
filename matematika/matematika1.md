@@ -13,3 +13,7 @@ Matematika 1:
 > U linkovima ispod predavanja stoje izvodjenja ekstremnih vrenosti f-ja, za rešenja zadataka javiti se u DM
 
 [Vežbe 05.10.2023](https://github.com/swagineering/swagineering.github.io/files/12820674/matematikavezbe05102023.pdf)
+
+
+https://github.com/swagineering/swagineering.github.io/assets/142833312/ddfc3191-57a7-4675-9921-f63ecef36bc4
+
