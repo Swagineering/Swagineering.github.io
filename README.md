@@ -4,6 +4,7 @@
 | :---        | 
 | [Matematika 1](https://swagineering.github.io/matematika/matematika1) |
 | [Fizika](https://swagineering.github.io/predmeti/fizika) |            
+| [Opšta Hemija 1](https://swagineering.github.io) |
 
 
 
