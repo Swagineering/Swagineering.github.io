@@ -4,13 +4,13 @@
 | :---        | 
 | [Matematika 1](https://swagineering.github.io/matematika/matematika1) |
 | [Fizika](https://swagineering.github.io/predmeti/fizika) |            
-| [Opšta Hemija 1](https://swagineering.github.io/predmeti/opstahemija1.md) |
+| [Opšta Hemija 1](https://swagineering.github.io/predmeti/opstahemija1) |
 
 ## Linkovi katedri
 
-[Matematika](https://matematika.tmf.bg.ac.rs)
+[Matematika](http://matematika.tmf.bg.ac.rs)
 
-[Hemija](https://opstahemija.tmf.bg.ac.rs)
+[Hemija](http://opstahemija.tmf.bg.ac.rs)
 
 
 > Beleške predmeta sa TMF-a u Beogradu.
