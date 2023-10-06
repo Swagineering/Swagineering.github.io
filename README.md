@@ -6,7 +6,9 @@
 | [Fizika](https://swagineering.github.io/predmeti/fizika) |            
 | [Opšta Hemija 1](https://swagineering.github.io) |
 
-
+## Linkovi katedri
+[Matematika](https://matematika.tmf.bg.ac.rs)
+[Hemija](https://opstahemija.tmf.bg.ac.rs)
 
 
 > Beleške predmeta sa TMF-a u Beogradu.
