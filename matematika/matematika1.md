@@ -17,6 +17,8 @@ Matematika 1:
 
 https://github.com/swagineering/swagineering.github.io/assets/142833312/ddfc3191-57a7-4675-9921-f63ecef36bc4
 
+# Python kod za datu animaciju. Prva funkcija je f(x) = (x-3) ^ 2, a druga f(x) = x ^ 2. Oduzimanje neke konstante A od x, pomera grafuk u desno!
+
 ```
 from manim import *
 
