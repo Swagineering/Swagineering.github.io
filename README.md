@@ -4,7 +4,7 @@
 | :---        | 
 | [Matematika 1](https://swagineering.github.io/matematika/matematika1) |
 | [Fizika](https://swagineering.github.io/fizika/fizika) |            
-| [Opšta Hemija 1](https://swagineering.github.io/predmeti/opstahemija1) |
+| [Opšta Hemija 1](https://swagineering.github.io/hemija/opstahemija1) |
 
 ## Linkovi katedri
 
