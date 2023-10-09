@@ -1,5 +1,7 @@
 # TMF beleške
 
+# Javni pristup sajtu ukidam uskoro, ukoliko želite pristup pitajte me uživo na fakultetu
+
 | Predmet     |                
 | :---        | 
 | [Matematika 1](https://swagineering.github.io/matematika/matematika1) |
@@ -18,3 +20,4 @@ Ovde se nalaze i korisni linkovi stručne literature, i animacije za lakše razu
 Sajt je podeljen u više sekcija, po predmetima
 
 Ukoliko imate neke beleške koje bi ste podelili -> DM 
+
