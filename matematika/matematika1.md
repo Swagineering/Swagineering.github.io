@@ -3,16 +3,16 @@
 Matematika 1: 
 - Skupovi brojeva, operacije nad skupovima, relacije, linearna i kvadratna funkcija...
 
-[Predavanje 03.10.2023](https://github.com/swagineering/swagineering.github.io/files/12794581/matematika10032023.pdf)
+[Predavanje 03.10.2023]()
 
 - Kompleksni brojevi, algebarski, geometrijski, trigonometrijski oblik (dokazi + linkovi)
 
-[Predavanje 04.10.2023](https://github.com/swagineering/swagineering.github.io/files/12805414/matematika104102023.pdf)
+[Predavanje 04.10.2023]()
 
 - Vežbe, kvadratna funkcija, kvadratne jednačine i nejednačine, apsolutne vrednosti:
 > U linkovima ispod predavanja stoje izvodjenja ekstremnih vrenosti f-ja, za rešenja zadataka javiti se u DM
 
-[Vežbe 05.10.2023](https://github.com/swagineering/swagineering.github.io/files/12820674/matematikavezbe05102023.pdf)
+[Vežbe 05.10.2023]()
 
 KLIKNUTI link, on renderuje animaciju!!
 
