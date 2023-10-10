@@ -1,5 +1,7 @@
 # TMF beleške
 
+sajt je u izradi, linkovi beleški trenutno nisu dostupni
+
 | Predmet     |                
 | :---        | 
 | [Matematika 1](https://swagineering.github.io/matematika/matematika1) |
