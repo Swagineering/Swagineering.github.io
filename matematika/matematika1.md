@@ -6,7 +6,8 @@ Matematika 1:
 [Predavanje 03.10.2023](https://drive.google.com/file/d/14UsH3bBysQAlv6kSk7i8S985p8x5oelv/view?usp=sharing)
 
 -Dokazi iz beleški:
-&a^{m+n} = \underbrace{a* a* a *\text{ ... } *a * a}_\text{n+m puta}&
+
+[Dokazi](https://drive.google.com/file/d/1FewdEBt_4Ly2R-9biGWyqgeyG-1D03AI/view?usp=sharing)
 
 - Kompleksni brojevi, algebarski, geometrijski, trigonometrijski oblik (dokazi + linkovi)
 
