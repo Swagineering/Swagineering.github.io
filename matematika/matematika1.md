@@ -3,16 +3,24 @@
 Matematika 1: 
 - Skupovi brojeva, operacije nad skupovima, relacije, linearna i kvadratna funkcija...
 
-[Predavanje 03.10.2023]()
+[Predavanje 03.10.2023](https://drive.google.com/file/d/14UsH3bBysQAlv6kSk7i8S985p8x5oelv/view?usp=sharing)
 
 - Kompleksni brojevi, algebarski, geometrijski, trigonometrijski oblik (dokazi + linkovi)
 
-[Predavanje 04.10.2023]()
+[Predavanje 04.10.2023](https://drive.google.com/file/d/1u3ivMbaKPpEGyHOWy-zSIf8ETCOpkgWr/view?usp=sharing)
 
 - Vežbe, kvadratna funkcija, kvadratne jednačine i nejednačine, apsolutne vrednosti:
 > U linkovima ispod predavanja stoje izvodjenja ekstremnih vrenosti f-ja, za rešenja zadataka javiti se u DM
 
-[Vežbe 05.10.2023]()
+[Vežbe 05.10.2023](https://drive.google.com/file/d/1eEONHCBsqQQ7j3Kbu5hlkIjvsfnSczOT/view?usp=sharing)
+
+- Eksponencijalne jednačine i nejednačine, logaritmi
+
+[Vežbe 10.10.2023](https://drive.google.com/file/d/1ostvISTJ_Or0rHqe02AW3-yG8hcrWUOk/view?usp=sharing)
+
+- Deljenje kompleksih brojeva, koreni kompleksnog broja, polinomi
+
+[Predavanje 11.10.2023](https://drive.google.com/file/d/1oPGEKwi3swQr0uM4w29YDsfMLUqkyMWT/view?usp=sharing)
 
 KLIKNUTI link, on renderuje animaciju!!
 
