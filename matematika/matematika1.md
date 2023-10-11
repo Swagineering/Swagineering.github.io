@@ -9,9 +9,7 @@ Matematika 1:
 - Kompleksni brojevi, algebarski, geometrijski, trigonometrijski oblik (dokazi + linkovi)
 
 [Predavanje 04.10.2023](https://drive.google.com/file/d/1u3ivMbaKPpEGyHOWy-zSIf8ETCOpkgWr/view?usp=sharing)
-
 [Izvodjenje formula iz beleški](https://youtu.be/X7EiTLoyaqk)
-
 [Dokaz Moavrove formule](http://mathsathawthorn.pbworks.com/f/De+Moivre%27s+Theorem+and+my+favourite+piece+of+maths.pdf)
 
 - Vežbe, kvadratna funkcija, kvadratne jednačine i nejednačine, apsolutne vrednosti:
