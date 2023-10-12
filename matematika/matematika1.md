@@ -25,6 +25,10 @@ Matematika 1:
 
 [Predavanje 11.10.2023](https://drive.google.com/file/d/1oPGEKwi3swQr0uM4w29YDsfMLUqkyMWT/view?usp=sharing)
 
+- Vežbe iz trigonometrije
+
+[Vežbe 12.10.2023](https://drive.google.com/file/d/1ChhndZarEJbCqXRdbEMXt6dCVINrge6G/view?usp=sharing)
+
 KLIKNUTI link, on renderuje animaciju!!
 
 [ANIMACIJA](https://github.com/swagineering/swagineering.github.io/assets/142833312/ddfc3191-57a7-4675-9921-f63ecef36bc4)
