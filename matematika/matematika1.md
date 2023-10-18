@@ -74,5 +74,6 @@ class image_one(Scene):
 ```
 
 - Linearna faktorizacija, linearno-kvadratna faktorizacija polinoma
-[Predavanje 18.10.2023.]() 
+
+[Predavanje 18.10.2023.](https://drive.google.com/file/d/1Ik0MkDXt0IkOPDpLwdIuknQ-5qXQLzKg/view?usp=sharing) 
 
