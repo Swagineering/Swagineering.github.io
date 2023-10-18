@@ -11,3 +11,7 @@
 - Hemijski zakoni
 
 [Predavanje 09.10.2023](https://drive.google.com/file/d/1IOtct-YlMFZBeDyIqxowCU8IvuYLNiPw/view?usp=sharing)
+
+- Termohemija, Gibsova slobodna energija, entropija i entalpija
+
+[Predavanje 16.10.2023](https://drive.google.com/file/d/17A41QdoMzv_i7jeRR0jelx7b7fro4B9z/view?usp=sharing)
