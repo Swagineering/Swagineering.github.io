@@ -73,4 +73,6 @@ class image_one(Scene):
         self.wait(2)
 ```
 
+- Linearna faktorizacija, linearno-kvadratna faktorizacija polinoma
+[Predavanje 18.10.2023.]() 
 
