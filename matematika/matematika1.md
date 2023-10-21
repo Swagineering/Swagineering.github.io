@@ -75,6 +75,8 @@ class image_one(Scene):
 
 - Linearna faktorizacija, linearno-kvadratna faktorizacija polinoma
 
+[Vežbe 17.10.2023](https://drive.google.com/file/d/1Vz3Cc_4u5m-gW6AHUq7DZ6vMFm4dplls/view?usp=sharing)
+
 [Predavanje 18.10.2023.](https://drive.google.com/file/d/1Ik0MkDXt0IkOPDpLwdIuknQ-5qXQLzKg/view?usp=sharing) 
 
 [Vežbe 19.10.2023](https://drive.google.com/file/d/1IhruqToHWEv-6rxnXvxgXnf3-txWkqMs/view?usp=sharing)
