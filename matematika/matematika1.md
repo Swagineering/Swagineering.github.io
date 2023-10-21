@@ -77,3 +77,5 @@ class image_one(Scene):
 
 [Predavanje 18.10.2023.](https://drive.google.com/file/d/1Ik0MkDXt0IkOPDpLwdIuknQ-5qXQLzKg/view?usp=sharing) 
 
+[Vežbe 18.10.2023](https://drive.google.com/file/d/1IhruqToHWEv-6rxnXvxgXnf3-txWkqMs/view?usp=sharing)
+
