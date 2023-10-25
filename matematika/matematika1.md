@@ -12,22 +12,9 @@ Matematika 1:
 [Izvodjenje formula iz beleški](https://youtu.be/X7EiTLoyaqk)
 [Dokaz Moavrove formule](http://mathsathawthorn.pbworks.com/f/De+Moivre%27s+Theorem+and+my+favourite+piece+of+maths.pdf)
 
-- Vežbe, kvadratna funkcija, kvadratne jednačine i nejednačine, apsolutne vrednosti:
-> U linkovima ispod predavanja stoje izvodjenja ekstremnih vrenosti f-ja, za rešenja zadataka javiti se u DM
-
-[Vežbe 05.10.2023](https://drive.google.com/file/d/1eEONHCBsqQQ7j3Kbu5hlkIjvsfnSczOT/view?usp=sharing)
-
-- Eksponencijalne jednačine i nejednačine, logaritmi
-
-[Vežbe 10.10.2023](https://drive.google.com/file/d/1ostvISTJ_Or0rHqe02AW3-yG8hcrWUOk/view?usp=sharing)
-
 - Deljenje kompleksih brojeva, koreni kompleksnog broja, polinomi
 
 [Predavanje 11.10.2023](https://drive.google.com/file/d/1oPGEKwi3swQr0uM4w29YDsfMLUqkyMWT/view?usp=sharing)
-
-- Vežbe iz trigonometrije
-
-[Vežbe 12.10.2023](https://drive.google.com/file/d/1ChhndZarEJbCqXRdbEMXt6dCVINrge6G/view?usp=sharing)
 
 KLIKNUTI link, on renderuje animaciju!!
 
@@ -73,11 +60,7 @@ class image_one(Scene):
         self.wait(2)
 ```
 
-- Linearna faktorizacija, linearno-kvadratna faktorizacija polinoma
-
-[Vežbe 17.10.2023](https://drive.google.com/file/d/1Vz3Cc_4u5m-gW6AHUq7DZ6vMFm4dplls/view?usp=sharing)
-
 [Predavanje 18.10.2023.](https://drive.google.com/file/d/1Ik0MkDXt0IkOPDpLwdIuknQ-5qXQLzKg/view?usp=sharing) 
 
-[Vežbe 19.10.2023](https://drive.google.com/file/d/1IhruqToHWEv-6rxnXvxgXnf3-txWkqMs/view?usp=sharing)
+[Predavanje 25.10.2023](https://drive.google.com/file/d/1lhs8-ZKPwCG3m7WGyF2ocdc-mpZnhVDT/view?usp=sharing)
 
