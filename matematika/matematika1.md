@@ -1,5 +1,7 @@
 # Predavanja sa matematike 1
 
+## Vežbe su premeštene na [ovaj link](https://github.github.io/matematika/vezbe/vezbe.md)
+
 Matematika 1: 
 - Skupovi brojeva, operacije nad skupovima, relacije, linearna i kvadratna funkcija...
 
