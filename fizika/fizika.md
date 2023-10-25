@@ -24,4 +24,8 @@
 
 [Vežbe 18.10.2023](https://drive.google.com/file/d/1KP1DDSzj8qG11iV10Hq5KoNc0_imeHDn/view?usp=sharing)
 
+[Predavanje 23.10.2023](https://drive.google.com/file/d/1Gm7GzOLFJYfRaS19OMDkgXwGNrHG4Dqk/view?usp=sharing)
+
+[Vežbe 25.10.2023](https://drive.google.com/file/d/1tNMzHjfBIO3pJcO7CO1By2kTMRJAkYwq/view?usp=sharing)
+
 
