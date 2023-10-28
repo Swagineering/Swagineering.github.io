@@ -21,3 +21,5 @@
 [Predavanje 20.10.2023](https://drive.google.com/file/d/12Hl_a9E9d6D8ajEHPSJ3usUEX5qx9rdA/view?usp=sharing)
 
 [Predavanje 23.10.2023](https://drive.google.com/file/d/1dJwNVpYF3vzukxmNpiG8JmD3GtZ-NFBP/view?usp=sharing)
+
+[Predavanje 27.10.2023](https://drive.google.com/file/d/1ngWUjkKiAO98ZAFix9ULSYtVQSoHMk8E/view?usp=sharing)
