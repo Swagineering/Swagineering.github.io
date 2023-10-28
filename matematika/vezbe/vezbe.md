@@ -18,3 +18,5 @@
 [Vežbe 19.10.2023](https://drive.google.com/file/d/1IhruqToHWEv-6rxnXvxgXnf3-txWkqMs/view?usp=sharing)
 
 [Vežbe 24.10.2023](https://drive.google.com/file/d/1ZRP3y4vWvNZLP_OTUUVfZWRegIOaILgQ/view?usp=sharing)
+
+[Vežbe 26.10.2023](https://drive.google.com/file/d/1ejAOuYXzJvKWPUNdB0IE-UDxk1X9MRCU/view?usp=sharing)
