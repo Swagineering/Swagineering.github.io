@@ -1,6 +1,6 @@
 # Predavanja sa matematike 1
 
-## Vežbe su premeštene na [ovaj link](https://swagineering.github.io/matematika/vezbe/vezbe.md)
+## Vežbe su premeštene na [ovaj link](https://swagineering.github.io/matematika/vezbe.md)
 
 Matematika 1: 
 - Skupovi brojeva, operacije nad skupovima, relacije, linearna i kvadratna funkcija...
