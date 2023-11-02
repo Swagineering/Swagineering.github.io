@@ -66,3 +66,5 @@ class image_one(Scene):
 
 [Predavanje 25.10.2023](https://drive.google.com/file/d/1lhs8-ZKPwCG3m7WGyF2ocdc-mpZnhVDT/view?usp=sharing)
 
+[Predavanje 01.11.2023](https://drive.google.com/file/d/13efiIZZerLQZ9rT-8IRkW1ZHmn1einsK/view?usp=sharing)
+
