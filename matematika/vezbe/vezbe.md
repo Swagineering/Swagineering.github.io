@@ -20,3 +20,7 @@
 [Vežbe 24.10.2023](https://drive.google.com/file/d/1ZRP3y4vWvNZLP_OTUUVfZWRegIOaILgQ/view?usp=sharing)
 
 [Vežbe 26.10.2023](https://drive.google.com/file/d/1ejAOuYXzJvKWPUNdB0IE-UDxk1X9MRCU/view?usp=sharing)
+
+[Vežbe 31.10.2023](https://drive.google.com/file/d/1Dpzgs6npm4lr6v59NeyUkLWWa39yciWP/view?usp=sharing)
+
+[Vežbe 02.11.2023](https://drive.google.com/file/d/1_karJNPyNT-eSdQzvR5_xmlOTNIm2VdU/view?usp=sharing)
