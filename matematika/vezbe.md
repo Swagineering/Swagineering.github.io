@@ -1,3 +1,5 @@
+# Matematika vežbe
+
 - Vežbe, kvadratna funkcija, kvadratne jednačine i nejednačine, apsolutne vrednosti:
 > U linkovima ispod predavanja stoje izvodjenja ekstremnih vrenosti f-ja, za rešenja zadataka javiti se u DM
 
