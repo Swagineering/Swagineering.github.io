@@ -14,6 +14,8 @@
 
 - Termohemija, Gibsova slobodna energija, entropija i entalpija
 
+[Predavanje 13.10.2023](https://drive.google.com/file/d/1rJrBOh9M09_tbYtBniewjTsapLwm58S9/view?usp=sharing)
+
 [Predavanje 16.10.2023](https://drive.google.com/file/d/17A41QdoMzv_i7jeRR0jelx7b7fro4B9z/view?usp=sharing)
 
 - Građa atoma, modeli
