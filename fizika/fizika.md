@@ -32,3 +32,5 @@
 
 [Predavanje 08.11.2023](https://drive.google.com/file/d/1uuE90ka5CTr6Ok0BPvHwFOmmbOlGy6da/view?usp=sharing)
 
+[Vežbe 08.11.2023](https://drive.google.com/file/d/1KMPy77l6WDpUVzCtrmeFM1_dTG_qJLe6/view?usp=sharing)
+
