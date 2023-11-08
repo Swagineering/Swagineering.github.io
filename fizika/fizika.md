@@ -30,3 +30,5 @@
 
 [Vežbe 02.11.2023](https://drive.google.com/file/d/1pH-x9KE-_ML2PXmErk6Z-2ih8H25h035/view?usp=sharing)
 
+[Predavanje 02.11.2023](https://drive.google.com/file/d/1uuE90ka5CTr6Ok0BPvHwFOmmbOlGy6da/view?usp=sharing)
+
