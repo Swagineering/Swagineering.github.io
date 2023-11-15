@@ -12,6 +12,8 @@
 
 [Hemija](http://opstahemija.tmf.bg.ac.rs)
 
+[Tehni;ka fizika](https://elektrotehnika.tmf.bg.ac.rs/)
+
 
 > Beleške predmeta sa TMF-a u Beogradu.
 Ovde se nalaze i korisni linkovi stručne literature.
